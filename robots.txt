@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bideatig.github.io/sitemap.html.gz
+Sitemap: https://bideatig.github.io/app/sitemap.html.gz
+Sitemap: https://bideatig.github.io/assets/sitemap.html.gz
+Sitemap: https://bideatig.github.io/css/sitemap.html.gz
+Sitemap: https://bideatig.github.io/data/sitemap.html.gz
+Sitemap: https://bideatig.github.io/includes/sitemap.html.gz
+Sitemap: https://bideatig.github.io/item/sitemap.html.gz
+Sitemap: https://bideatig.github.io/src/sitemap.html.gz
